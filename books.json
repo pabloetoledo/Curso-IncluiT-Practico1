@@ -1,0 +1,22 @@
+[
+    {
+        "id" : "1",
+        "name" : "Infinite Powers",
+        "authorid" : "1"
+    },
+    {
+        "id" : "2",
+        "name" : "Bottle of Lies",
+        "authorid" : "2"
+    },
+    {
+        "id" : "3",
+        "name" : "The Dreamt Land",
+        "authorid" : "3"
+    },
+    {
+        "id" : "4",
+        "name" : "Midnight in Chernobyl",
+        "authorid" : "4"
+    }
+]
